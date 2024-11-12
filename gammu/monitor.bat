@@ -1,0 +1,1 @@
+gammu-smsd-monitor.exe -c smsdrc

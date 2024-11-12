@@ -1,0 +1,4 @@
+id_siswa,id_jenjang,nama_lengkap,nisn,jenis_kelamin,tempat_lahir,tgl_lahir,agama,alamat,no_hp,email,asal_sekolah,ket_asal,nama_ayah,nama_ibu,tgl_daftar
+12002,2,reni,122,perempuan,jambi,12/12/1990,islam,jemabi,9876,jambi@gmail.com,sd n 5 jambi,sip,anton,rina,19-01-2017
+12003,2,bani,111,perempuan,jambi,12/12/1990,islam,jemabi,9876,jambi@gmail.com,sd n 5 jambi,sip,anton,rina,19-01-2017
+12004,2,rona,123,perempuan,jambi,12/12/1990,islam,jemabi,9876,jambi@gmail.com,sd n 5 jambi,sip,anton,rina,19-01-2017

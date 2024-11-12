@@ -1,0 +1,26 @@
+[
+    {
+        "version": "1",
+        "batch": "1",
+        "sql": "1-1-initial.sql",
+        "type": "query",
+        "description": "Initial elearning sql",
+        "status": true
+    },
+    {
+        "version": "1",
+        "batch": "2",
+        "sql": "1-2-trigger.sql",
+        "type": "trigger",
+        "description": "Add trigger",
+        "status": true
+    },
+    {
+        "version": "1",
+        "batch": "3",
+        "sql": "1-3-trigger.sql",
+        "type": "trigger",
+        "description": "Add trigger to table ujian",
+        "status": true
+    }
+]

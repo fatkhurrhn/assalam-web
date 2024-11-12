@@ -1,0 +1,3 @@
+id_siswa,id_jenjang,id_ta,id_kelas,nama_lengkap,nisn,jenis_kelamin,tempat_lahir,tgl_lahir,agama,alamat,no_hp,email,asal_sekolah,ket_asal,nama_ayah,nama_ibu,tgl_daftar
+1720007,2,11,35,ana,6378,perempuan,jambi,12-12-1990,islam,jambi,987654,ana@gmail.com,sd n 2 jambi,-,doni,dina,12-12-2017
+1720006,2,11,35,emil,3322,perempuan,jambi,12-12-1990,islam,jambi,987654,ana@gmail.com,sd n 2 jambi,-,doni,dina,12-12-2017

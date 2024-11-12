@@ -1,0 +1,8 @@
+Lisensi
+
+Aplikasi Web Absence adalah sistem yang dibuat oleh Tim Exmud Development yang dapat digunakan untuk proses sentralisasi data absensi di mulai dari Sekolah Dasar (SD) hingga Sekolah Menengah Atas (SMA), Negeri ataupun Swasta.
+Aplikasi ini kombinasi antara aplikasi Android dari sisi client (guru), web server internal (sekolah) dan web server utama (pusat) serta terintegrasi dengan sistem SMS Gateway dengan Multi Port yang dapat menyebarkan informasi secara simultan.
+Hak kepemilikian aplikasi ini sepenuhnya berada pada pembuat.
+
+Tim Absen Mandiri
+Hak Cipta © 2017
